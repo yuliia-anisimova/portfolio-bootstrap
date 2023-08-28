@@ -68,3 +68,8 @@
   border-right: 0.1rem solid $gray-300;
   height: 100%;
 }
+
+// Gradient
+.gradient {
+  @include gradient;
+}
